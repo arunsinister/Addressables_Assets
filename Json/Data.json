@@ -1,0 +1,64 @@
+{
+  "NFTs": {
+    "Cars": [
+      {
+        "id": "F1",
+        "carName": "Tom",
+        "carAddressableId": "Car_F1"
+      },
+      {
+        "id": "F2",
+        "carName": "Tom",
+        "carAddressableId": "Car_F2"
+      }
+    ],
+    "Bikes": [
+      {
+        "id": "F1",
+        "carName": "Tom",
+        "carAddressableId": "Bike_F1"
+      },
+      {
+        "id": "F2",
+        "carName": "Tom",
+        "carAddressableId": "Bike_F2"
+      }
+    ],
+    "Drivers": [
+      {
+        "id": "F1",
+        "carName": "Tom",
+        "carAddressableId": "Driver_F1"
+      },
+      {
+        "id": "F2",
+        "carName": "Tom",
+        "carAddressableId": "Driver_F2"
+      }
+    ],
+    "Helmets": [
+      {
+        "id": "F1",
+        "carName": "Tom",
+        "carAddressableId": "Helmet_F1"
+      },
+      {
+        "id": "F2",
+        "carName": "Tom",
+        "carAddressableId": "Helmet_F2"
+      }
+    ],
+    "Art": [
+      {
+        "id": "F1",
+        "carName": "Tom",
+        "carAddressableId": "Art_F1"
+      },
+      {
+        "id": "F2",
+        "carName": "Tom",
+        "carAddressableId": "Art_F2"
+      }
+    ]
+  }
+}
